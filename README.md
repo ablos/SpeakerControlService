@@ -12,7 +12,7 @@ After this, you can choose to run the file manually and test it out by double cl
 
 Then depending on the terminal of choosing run the install command:
 
-PowerShell: `./SpeakerControlService.exe --install`
+PowerShell: `./SpeakerControlService.exe --install`  
 CMD: `SpeakerControlService.exe --install`
 
 That's it! The service is now installed and running.
