@@ -21,5 +21,5 @@ That's it! The service is now installed and running.
 
 Uninstalling the service is just as easy as installing it. Once again navigate to the installation folder of your choosing by using the cd command and then depending on the terminal of choosing run the uninstall command:
 
-PowerShell: `./SpeakerControlService.exe --uninstall`
+PowerShell: `./SpeakerControlService.exe --uninstall`  
 CMD: `SpeakerControlService.exe --uninstall`
