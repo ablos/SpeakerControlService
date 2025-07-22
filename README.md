@@ -6,7 +6,7 @@ To solve this issue I have built in a relay with an ESP8266 hooked up to it runn
 
 # Installation
 
-To install this service, download the latest release and put it in a safe spot where you don't accedentally delete it, like C:\Services\SpeakerControl or something. Then open the config.json file and fill in your HomeAssistant details and maybe tweak the timing settings to your liking (details below).
+To install this service, download the latest release and extract the zip it in a safe spot where you don't accidentally delete it, like C:\Services\SpeakerControl or something. Then open the config.json file and fill in your HomeAssistant details and maybe tweak the timing settings to your liking (details below).
 
 After this, you can choose to run the file manually and test it out by double clicking the .exe or you can install it as a service in Windows which makes it run automatically in the background always. To do this open the folder in either PowerShell or CMD by running the cd command.
 
