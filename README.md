@@ -1,6 +1,6 @@
 # SpeakerControlService
 
-This is a Windows service that will toggle a switch on Home Assistant based on audio activity on your Windows PC. I have made this service since I have some nice speakers that create a humming sound when no audio is playing.
+This is a Windows service that will toggle a switch in Home Assistant based on audio activity on your Windows PC. I have made this service since I have some nice speakers that create a humming sound when no audio is playing.
 
 To solve this issue I have built in a relay with an ESP8266 hooked up to it running ESPHome and configured it as a switch in Home Assistant. Using the HA Rest API and the Windows Audio API the switch is toggled on whenever audio starts playing, it toggles off if no audio has been playing for a set amount of time.
 
