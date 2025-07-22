@@ -1,0 +1,12 @@
+{
+  "HomeAssistant": {
+    "BaseUrl": "http://your_local_ha_ip:8123",
+    "AccessToken": "your_long_lived_access_token",
+    "SpeakerEntityId": "switch.speaker_relay"
+  },
+  "AudioMonitoring": {
+    "CheckIntervalMs": 1000,
+    "AudioThreshold": 0.001,
+    "SilenceDelaySeconds": 15
+  }
+}

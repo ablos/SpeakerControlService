@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakerControlService", "SpeakerControlService.csproj", "{E2DA37EE-511A-4E36-A58E-3FD2717744A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2DA37EE-511A-4E36-A58E-3FD2717744A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DA37EE-511A-4E36-A58E-3FD2717744A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DA37EE-511A-4E36-A58E-3FD2717744A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DA37EE-511A-4E36-A58E-3FD2717744A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35A806AC-087A-42DB-802B-7C1A372E807B}
+	EndGlobalSection
+EndGlobal
